@@ -1,0 +1,12 @@
+httpx<0.25.0
+langchain
+langchain-community
+pypdf
+seaborn
+nltk
+wordcloud
+torch
+openpyxl
+python-dotenv
+langchain-groq
+transformers
